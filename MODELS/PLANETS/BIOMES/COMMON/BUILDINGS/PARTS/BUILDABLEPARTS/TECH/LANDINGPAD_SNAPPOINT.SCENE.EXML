@@ -123,7 +123,7 @@
       <Property name="Type" value="LOCATOR" />
       <Property name="Transform" value="TkTransformData.xml">
         <Property name="TransX" value="18" />
-        <Property name="TransY" value="0.25" />
+        <Property name="TransY" value="0.85" />
         <Property name="TransZ" value="0" />
         <Property name="RotX" value="0" />
         <Property name="RotY" value="90" />
@@ -343,7 +343,7 @@
       <Property name="Type" value="LOCATOR" />
       <Property name="Transform" value="TkTransformData.xml">
         <Property name="TransX" value="0" />
-        <Property name="TransY" value="0.25" />
+        <Property name="TransY" value="0.85" />
         <Property name="TransZ" value="-18" />
         <Property name="RotX" value="0" />
         <Property name="RotY" value="180" />
@@ -563,7 +563,7 @@
       <Property name="Type" value="LOCATOR" />
       <Property name="Transform" value="TkTransformData.xml">
         <Property name="TransX" value="0" />
-        <Property name="TransY" value="0.25" />
+        <Property name="TransY" value="0.85" />
         <Property name="TransZ" value="18" />
         <Property name="RotX" value="0" />
         <Property name="RotY" value="0" />
@@ -783,7 +783,7 @@
       <Property name="Type" value="LOCATOR" />
       <Property name="Transform" value="TkTransformData.xml">
         <Property name="TransX" value="-18" />
-        <Property name="TransY" value="0.25" />
+        <Property name="TransY" value="0.85" />
         <Property name="TransZ" value="0" />
         <Property name="RotX" value="0" />
         <Property name="RotY" value="-90" />
